@@ -1,5 +1,5 @@
 
-##  This is Carlos Bravo! :sunglasses:  |  Gamer :video_game: | Business Analyst :eyes: |  Python Enthusiast :snake:
+##  This is Carlos Bravo! :sunglasses:  |  Gamer :video_game: | Product Owner :eyes: |  JS & Python Enthusiast :snake:
 ***
 Hello my friend! :v: I have worked as an Infrastructure Solutions Architect, Microsoft 365 Support Engineer and currently as a Business Analyst / Product Owner
 for a software development company based in Nicaragua (Same as me :smile:). I have been learning Python for software development and data analysis over the last year

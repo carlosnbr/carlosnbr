@@ -22,7 +22,7 @@ which has greatly helped me understand the software development lifecycle. Looki
 * Quality Assurance
 ***
 In case you happened to stumble across my profile and you want to chat, you can find me in:
-* [Twitter](https://twitter.com/spirit94charlie)
+* [Twitter](https://twitter.com/carlos_bra31870)
 * [LinkedIn](https://www.linkedin.com/in/carlos-bravo-48b551155)  
 
 You can ask me anything. I am a big fan of learning new things :wrench: and absorb knowledge :brain: to do great thing in this world.

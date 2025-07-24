@@ -3,8 +3,8 @@
 ***
 Hello my friend! :v: Currently working as a React / React Native / EmberJS / Ruby on Rails Engineer for a US based startup.
 
-I have also worked as an Infrastructure Solutions Architect, Microsoft 365 Support Engineer and currently as a Business Analyst / Product Owner
-for a software development company based in Nicaragua (Same as me :smile:).
+I have also worked as an Infrastructure Solutions Architect, Microsoft 365 Support Engineer and as a Business Analyst / Product Owner
+for a software development company.
 
 ***
 ### Tech skills:

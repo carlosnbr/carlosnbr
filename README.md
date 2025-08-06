@@ -1,7 +1,7 @@
 
-##  This is Carlos Bravo! :sunglasses:  | React Engineer | Technical Product Owner :eyes: | Python Enthusiast :snake:
+##  This is Carlos Bravo! :sunglasses:  | React Software Engineer 
 ***
-Hello my friend! :v: Currently working as a React / React Native / EmberJS / Ruby on Rails Engineer for a US based startup.
+Hello my friend! :v: Currently working as a React / React Native / Ruby on Rails Engineer for a US based startup. Mostly focused on frontend development.
 
 I have also worked as an Infrastructure Solutions Architect, Microsoft 365 Support Engineer and as a Business Analyst / Product Owner
 for a software development company.

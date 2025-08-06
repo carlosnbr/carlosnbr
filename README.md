@@ -8,18 +8,20 @@ for a software development company.
 
 ***
 ### Tech skills:
+* React
+* NextJS
+* React Native
+* AstroJS
 * HTML / CSS / JS
 * Python (Mostly for data analysis / backend development)
 * MongoDB
 * SQL
 * Azure DevOps
 * Azure Services
-* JSON
-* APIs
+* AWS
 ### Other skills:
 * AGILE Methodologies
 * Excel
-* Tableau
 * Requirements & Backlog management
 * Quality Assurance
 ***
